@@ -30,4 +30,4 @@
 <br>
 
 ### 📶 Coding Test Grade
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dno06117)](https://solved.ac/kappie074/) <img src="http://mazandi.herokuapp.com/api?handle=dno06117&theme=cold"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dno06117)](https://solved.ac/kappie074/) <img src="http://mazandi.herokuapp.com/api?handle=dno06117&theme=dark"/>
