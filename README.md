@@ -1,9 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KyeongSeokBaek🧑🏻‍💻&fontSize=40&animation=twinkling&textAlign=right)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&background=FF000000&vCenter=true&width=435&lines=KYEONGSEOK's+GITHUB">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&background=FFFFFF&vCenter=true&width=435&lines=KYEONGSEOK's+GITHUB">
+</picture>
+<hr>
+<br>
 
 ### 🙋🏻 Introduce
 안녕하세요!! 끊임없이 도전과 경험을 통해 발전하는 백엔드 개발자 백경입니다.
 
-<br>
+### 📖 Visit My Blog!
+<a href="https://dno06117.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Blog-4A90E2?style=for-the-badge&logo=GitBook&logoColor=white"/>
+</a>
 
 ### ⚙️ Tech Skill
 
