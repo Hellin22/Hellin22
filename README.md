@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&background=FFFFFF&vCenter=true&width=435&lines=KYEONGSEOK's+GITHUB">
 </picture>
 <hr>
-<br>
 
 ### 🙋🏻 Introduce
 안녕하세요!! 끊임없이 도전과 경험을 통해 발전하는 백엔드 개발자 백경입니다.
