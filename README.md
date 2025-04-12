@@ -20,8 +20,8 @@
 #### ⚙️ Framework & Libraries
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/Mybatis-DD0700?logo=Mybtis&logoColor=white) ![Spring JPA](https://img.shields.io/badge/SpringJPA-004088?logo=SpringJPA&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
-#### 🛠️ Databases & Cloud
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
+#### 🛠️ Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white)
 
 #### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)
